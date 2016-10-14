@@ -1,0 +1,1 @@
+exports[`My View should not regress 1`] = `"<h2>Hello Jordan! You clicked 0 times! <button>Click me!</button></h2>"`;

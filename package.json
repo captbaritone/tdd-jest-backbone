@@ -1,0 +1,19 @@
+{
+  "name": "jest-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "tdd": "jest --watch"
+  },
+  "author": "Jordan Eldredge <jordan@jordaneldredge.com> (https://jordaneldredge.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^16.0.1"
+  },
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "jquery": "^3.1.1"
+  }
+}
