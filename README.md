@@ -1,5 +1,7 @@
 # Testing a Backbone View with Jest
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/captbaritone/tdd-jest-backbone.svg)](https://greenkeeper.io/)
+
 ## Install
 
 * Clone repo
